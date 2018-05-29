@@ -3,8 +3,8 @@ import qs from 'qs';
 import { reset } from 'redux-form';
 import moment from 'jalali-moment';
 
-const requestHomeInitializeType = 'REQUEST_GAME_INITIALIZE';
-const responseHomeInitializeType = 'RESPONSE_GAME_INITIALIZE';
+const requestHomeInitializeType = 'REQUEST_HOME_INITIALIZE';
+const responseHomeInitializeType = 'RESPONSE_HOME_INITIALIZE';
 
 const testMode = true;
 
